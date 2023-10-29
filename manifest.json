@@ -1,0 +1,9 @@
+{
+  "name": "My Chrome Extention Sample",
+  "description": "My Chrome Extention Sample",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
